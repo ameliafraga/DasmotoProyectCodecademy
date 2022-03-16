@@ -1,0 +1,48 @@
+* { 
+    padding:0;
+    margin:0;
+ }
+html{
+     font-family: Helvetica, sans-serif;
+     margin-left: 5px;
+}
+header{
+     background-image: url(./imagenes/pattern.jpeg)
+}
+h1{
+     font-size: 100px;
+     font-weight: bold;
+     color:khaki;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+h2{
+    margin-bottom: 15px;
+}
+h2{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+h3{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.brushes{
+    background-color: mediumspringgreen;
+}
+.frames{
+    background-color: lightcoral;
+}
+.paint{
+    background-color: skyblue;
+}
+.item{
+    padding-top: 30px;
+    padding-bottom: 5px;
+}
+span{
+font-weight: bold;
+color: blue;
+}
